@@ -1,2 +1,2 @@
 # coffee_clsfctn
-kahve datasetinden, kahve kökeninin classification modelleriyle tahmin edilmesi uygulaması
+kahve dataseti üzerinde classification modelleriyle kahve kökeninin tahmin edilmesi uygulaması
